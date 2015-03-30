@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CombatDevelopersEngineXbox">
+</Property><Property Name="Solution File" Value="C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngineXbox.sln">
+</Property><Property Name="Date" Value="domingo, 13 de marzo de 2011">
+</Property><Property Name="Time" Value="22:48 p.m.">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="SampleGameXbox" Source="SampleGame\SampleGameXbox.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="SampleGameXbox" Source="SampleGame\SampleGameXbox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SampleGameXbox" Source="SampleGame\SampleGameXbox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CombatDevelopersEngineXbox" Source="CombatDevelopersEngine\CombatDevelopersEngineXbox.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="CombatDevelopersEngineXbox" Source="CombatDevelopersEngine\CombatDevelopersEngineXbox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CombatDevelopersEngineXbox" Source="CombatDevelopersEngine\CombatDevelopersEngineXbox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CombatDevelopersEngineXbox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CombatDevelopersEngineXbox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SampleGameXbox" Source="SampleGame\SampleGameXbox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SampleGameXbox" Source="SampleGame\SampleGameXbox.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="CombatDevelopersEngineXbox" Source="CombatDevelopersEngine\CombatDevelopersEngineXbox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CombatDevelopersEngineXbox" Source="CombatDevelopersEngine\CombatDevelopersEngineXbox.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event></UpgradeLog>

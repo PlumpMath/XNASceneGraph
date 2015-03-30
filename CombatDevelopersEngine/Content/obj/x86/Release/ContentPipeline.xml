@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>EngineParticles\colores.png</Source>
+      <Name>EngineParticles\colores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\EngineParticles\colores.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\colores2.png</Source>
+      <Name>EngineParticles\colores2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\EngineParticles\colores2.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\explosion.png</Source>
+      <Name>EngineParticles\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\EngineParticles\explosion.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\fire.png</Source>
+      <Name>EngineParticles\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\EngineParticles\fire.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\fireworks.png</Source>
+      <Name>EngineParticles\fireworks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\EngineParticles\fireworks.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\leche.png</Source>
+      <Name>EngineParticles\leche</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\EngineParticles\leche.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\leche1.png</Source>
+      <Name>EngineParticles\leche1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\EngineParticles\leche1.xnb</Output>
+      <Time>2009-11-05T12:54:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\smoke.png</Source>
+      <Name>EngineParticles\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\EngineParticles\smoke.xnb</Output>
+      <Time>2009-11-05T12:54:40-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-12T19:25:49.9513227-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

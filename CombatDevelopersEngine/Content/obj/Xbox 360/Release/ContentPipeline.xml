@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>EngineParticles\colores.png</Source>
+      <Name>EngineParticles\colores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\colores.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\colores2.png</Source>
+      <Name>EngineParticles\colores2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\colores2.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\explosion.png</Source>
+      <Name>EngineParticles\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\explosion.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\fire.png</Source>
+      <Name>EngineParticles\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\fire.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\fireworks.png</Source>
+      <Name>EngineParticles\fireworks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\fireworks.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\leche.png</Source>
+      <Name>EngineParticles\leche</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\leche.xnb</Output>
+      <Time>2009-11-05T12:54:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\leche1.png</Source>
+      <Name>EngineParticles\leche1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\leche1.xnb</Output>
+      <Time>2009-11-05T12:54:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\smoke.png</Source>
+      <Name>EngineParticles\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\smoke.xnb</Output>
+      <Time>2009-11-05T12:54:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EngineParticles\ParticleEffect.fx</Source>
+      <Name>EngineParticles\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\ParticleEffect.xnb</Output>
+      <Time>2009-11-05T12:54:40-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\Content\obj\Xbox 360\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-07-02T00:09:34.734375-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

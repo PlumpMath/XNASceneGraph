@@ -1,0 +1,13 @@
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\Content\Models\p1_wedge.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\Content\Models\spaceship3.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\Content\font.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\SampleGame.exe
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\SampleGame.pdb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\CombatDevelopersEngine.dll
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Debug\CombatDevelopersEngine.pdb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\obj\Xbox 360\Debug\SampleGame.exe
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\obj\Xbox 360\Debug\SampleGame.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CombatDevelopersEngine">
+</Property><Property Name="Solution File" Value="C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine.sln">
+</Property><Property Name="Date" Value="sábado, 12 de marzo de 2011">
+</Property><Property Name="Time" Value="19:49 p.m.">
+</Property><Property Name="Solution" Value="CombatDevelopersEngine">
+</Property><Property Name="Solution File" Value="C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine.sln">
+</Property><Property Name="Date" Value="sábado, 12 de marzo de 2011">
+</Property><Property Name="Time" Value="19:49:14 p.m.">
+</Property><Property Name="Solution" Value="CombatDevelopersEngine">
+</Property><Property Name="Solution File" Value="C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine.sln">
+</Property><Property Name="Date" Value="sábado, 12 de marzo de 2011">
+</Property><Property Name="Time" Value="19:49:16 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="CombatDevelopersEngine" Source="CombatDevelopersEngine\CombatDevelopersEngine.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="CombatDevelopersEngine" Source="CombatDevelopersEngine\CombatDevelopersEngine.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CombatDevelopersEngine" Source="CombatDevelopersEngine\CombatDevelopersEngine.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SampleGame" Source="SampleGame\SampleGame.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="SampleGame" Source="SampleGame\SampleGame.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SampleGame" Source="SampleGame\SampleGame.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CombatDevelopersEngine.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CombatDevelopersEngine.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CombatDevelopersEngine" Source="CombatDevelopersEngine\CombatDevelopersEngine.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CombatDevelopersEngine" Source="CombatDevelopersEngine\CombatDevelopersEngine.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="CombatDevelopersEngineContent" Source="CombatDevelopersEngine\Content\CombatDevelopersEngineContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event><Event ErrorLevel="0" Project="SampleGame" Source="SampleGame\SampleGame.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SampleGame" Source="SampleGame\SampleGame.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="SampleGameContent" Source="SampleGame\Content\SampleGameContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

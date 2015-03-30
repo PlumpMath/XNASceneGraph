@@ -1,0 +1,36 @@
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\CombatDevelopersEngine.dll
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\CombatDevelopersEngine.pdb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\CombatDevelopersEngine.dll
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\CombatDevelopersEngine.pdb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\CombatDevelopersEngine.dll
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\CombatDevelopersEngine.pdb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\CombatDevelopersEngine.dll
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\CombatDevelopersEngine.pdb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\colores.xnb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\colores2.xnb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\explosion.xnb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\fire.xnb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\fireworks.xnb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\leche.xnb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\leche1.xnb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\smoke.xnb
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\ParticleEffect.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\colores.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\colores2.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\explosion.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\fire.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\fireworks.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\leche.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\leche1.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\smoke.xnb
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\Content\EngineParticles\ParticleEffect.xnb
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\CombatDevelopersEngine.dll
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\obj\Xbox 360\Release\CombatDevelopersEngine.pdb
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\CombatDevelopersEngine.dll
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\CombatDevelopersEngine\bin\Xbox 360\Release\CombatDevelopersEngine.pdb

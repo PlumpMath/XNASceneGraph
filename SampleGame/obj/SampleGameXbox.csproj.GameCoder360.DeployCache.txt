@@ -1,0 +1,39 @@
+538f102b67aa46b29e3a44173fe4bd98
+0
+GameCoder360
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\
+129445483460000000
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\GameThumbnail.png
+2009-11-02T17:11:54.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\CombatDevelopersEngine.dll
+2011-03-14T03:51:59.8527198Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\SampleGame.exe
+2011-03-22T05:44:32.0623150Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\font.xnb
+2011-03-14T03:50:41.9584685Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\colores.xnb
+2009-11-09T15:01:36.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\colores2.xnb
+2009-11-09T15:01:36.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\explosion.xnb
+2009-11-09T15:01:38.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\fire.xnb
+2009-11-09T15:01:38.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\fireworks.xnb
+2009-11-09T15:01:38.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\leche.xnb
+2009-11-09T15:01:38.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\leche1.xnb
+2009-11-09T15:01:38.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\ParticleEffect.xnb
+2009-11-09T15:01:38.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\EngineParticles\smoke.xnb
+2009-11-09T15:01:38.0000000Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\Models\p1_wedge.xnb
+2011-03-14T03:50:40.2471983Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\Models\spaceship3.xnb
+2011-03-14T03:50:41.6984580Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\Textures\wedge_p1_diff_v1.xnb
+2011-03-14T03:50:38.5311953Z
+C:\Users\Agustin\Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\bin\Xbox 360\Release\Content\Textures\wedge_p1_diff_v1_0.xnb
+2011-03-14T03:50:40.4374075Z

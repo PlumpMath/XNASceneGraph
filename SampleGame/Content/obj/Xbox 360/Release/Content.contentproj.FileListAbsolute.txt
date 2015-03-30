@@ -1,0 +1,2 @@
+C:\Documents and Settings\Agustin\My Documents\Game development\XNA\CombatDevelopersEngine\SampleGame\Content\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aguconma\Mis documentos\Game Wisdom\XNA\CombatDevelopersEngine\SampleGame\Content\obj\Xbox 360\Release\ResolveAssemblyReference.cache
